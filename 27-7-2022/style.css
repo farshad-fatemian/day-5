@@ -1,0 +1,39 @@
+.greeting {
+    color : navy;
+    text-align: right;
+    font-size: 70px;
+}
+
+#text {
+    color:red;
+    font-size: 40px;
+    max-height: 80px;
+    overflow-y: scroll;
+}
+
+p {
+    background-color: rgb(158, 175, 227);
+    border: 5px solid red;
+    border-radius: 50px;
+    padding: 15px;
+}
+
+#bgjon {
+    width: auto;
+    height: 1300px;
+    background-image: url("photo_2022-07-24_12-41-30.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#end {
+    background-color: yellow;
+}
+
+.container {
+    background-image: url("photo_2022-07-24_12-41-30.jpg");
+}
+#link:hover {
+    color: blue;
+}
+
